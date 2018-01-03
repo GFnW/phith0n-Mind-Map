@@ -15,7 +15,7 @@ git clone https://github.com/phith0n/Mind-Map.git
 
 Mind-Map项目地址：https://github.com/phith0n/Mind-Map
 
-作者：[phith0n](http://leavesogns.com/)
+作者：[phith0n](http://leavesongs.com/)
 
 #### [运维安全](%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8.png)  
 #### [渗透的艺术](%E6%B8%97%E9%80%8F%E7%9A%84%E8%89%BA%E6%9C%AF.jpg)
